@@ -1,10 +1,10 @@
 {
   "name": "khaskhelis_cli_atm_machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Created CLI ATM Machine with Typescript and Node.js",
   "main": "index.js",
   "type": "module",
-
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
